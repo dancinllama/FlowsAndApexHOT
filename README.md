@@ -6,7 +6,7 @@ Are you interested in learning more about how to customize processes and flows i
 
 Before you get started:
 1. Sign up for a new, clean developer edition organization here: <a href="https://developer.salesforce.com/signup">https://developer.salesforce.com/signup</a>
-2. Sign up for a loggly account here: <a href="https://www.loggly.com/signup">https://www.loggly.com/signup</a>
+2. Sign up for a loggly account here: <a href="https://www.loggly.com/signup">https://www.loggly.com/signup</a><
 3. Click the Deploy to Salesforce button to deploy existing processes and Apex classes to your new DE org: <a href="https://githubsfdeploy.herokuapp.com?owner=dancinllama&amp;repo=Volunteers-for-Salesforce">
   <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png" style="max-width:100%;">
 </a>
