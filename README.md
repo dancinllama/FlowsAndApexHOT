@@ -14,6 +14,5 @@ Before you get started:<br />
 
 
 Note to Developer Group presenters:<br />
-Print off the <a href="https://github.com/dancinllama/FlowsAndApexHOT/raw/master/docs/EnhanceProccessAndFlowsApexHOT_SHORTENED.doc">Excercise Guide</a> for your attendees.
-
-The Power Point presentation can be found <a href="https://github.com/dancinllama/FlowsAndApexHOT/raw/master/docs/MVPHOT.pptx">here</a>.
+1. Print off the <a href="https://github.com/dancinllama/FlowsAndApexHOT/raw/master/docs/EnhanceProccessAndFlowsApexHOT_SHORTENED.doc">Excercise Guide</a> for your attendees.<br />
+2. The Power Point presentation can be found <a href="https://github.com/dancinllama/FlowsAndApexHOT/raw/master/docs/MVPHOT.pptx">here</a>.
